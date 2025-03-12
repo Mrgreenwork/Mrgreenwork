@@ -1,5 +1,6 @@
 # 💫 About Me:
-Networking Projects
+welcome to my GitHub Profile
+
 
 
 # 💻 Tech Stack:
